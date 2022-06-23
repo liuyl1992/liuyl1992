@@ -1,5 +1,15 @@
 ### Hi there 👋
+<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" align="right">, I'm Leon</h1> 
 
+<img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=liuyl1992&show_icons=true&theme=radical&hide_title=1)
+
+
+### Finding a clean architecture for net6+? Try this!
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=liuyl1992&repo=netpro&theme=radical)]([https://github.com/qishibo/AnotherRedisDesktopManager](https://github.com/LeonKou/NetPro))
 <!--
 **liuyl1992/liuyl1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
