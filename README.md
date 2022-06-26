@@ -7,7 +7,7 @@ Leon &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mas
 
 ### Finding a clean architecture for net6+? Try this!
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=liuyl1992&repo=netpro&theme=radical)]([https://github.com/qishibo/AnotherRedisDesktopManager](https://github.com/LeonKou/NetPro))
+[![](https://github-readme-stats.vercel.app/api/pin/?username=liuyl1992&repo=netpro&theme=radical)]([[https://github.com/qishibo/AnotherRedisDesktopManager](https://github.com/LeonKou/NetPro)](https://github.com/LeonKou/NetPro))
 <!--
 **liuyl1992/liuyl1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
